@@ -1,2 +1,2 @@
-# Everything_about_Python
-This is a directory made for who ever is trying to learning Python from scratch.
+# Everything about Python
+This is a directory made for whoever is trying to learn Python from scratch.
