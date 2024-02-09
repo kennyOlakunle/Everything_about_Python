@@ -1,4 +1,4 @@
 # Everything about Python
-This is a directory made for whoever is trying to learn Python from scratch.
+This repository was used to teach students learning Python. If you need it to get started, clone and enjoy.
 
-Check the source folder i.e `src` for the code. You should have access to different projects.
+Cheers!
